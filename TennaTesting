@@ -1111,8 +1111,8 @@ Empyrean = Start({
 		{ MeshId = "14768684979", Names = { "Left Arm", "Right Arm"}, Offset = CFrame.Angles(0, 0, 1.57), TextureId = "14768683674" },
 		-- Devesto Cube
 		{ Name = "Reanimate_Spamton",  MeshId = "93839976189892", TextureId = "87530318962700", Offset = CFrame.identity },
-    -- Spider Cola
-		{ Name = "Reanimate_Spamton",  MeshId = "3164803967", TextureId = "3164818029", Offset = CFrame.Angl
+    -- Angel Spamton
+		{ Name = "Reanimate_Spamton",  MeshId = "3164803967", TextureId = "3164818029", Of
 
 	},
 	ApplyDescription = true,
